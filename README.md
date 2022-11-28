@@ -27,12 +27,12 @@ INSERT INTO My-Bio.sql VALUES
 ```
 # AFTER USING MY SQL COMMAND ;
 ## RESULTS ARE :
-  | Name | | City | |Cource |
- | -----| | -----| | ----- |
-| **T**eja | |**G**untur | |**J**ava|
-| **H**arish | |**O**ngole| |**C**ss|
-| **L**ikith | |**V**izag| |**H**tml|
-| **R**amesh | |**N**ellore| |**C**ss|
+| NAME | City | COURCE |
+| -----| -----| -------|
+|**T**eja|**G**untur|**J**ava|
+|**H**arish|**O**ngole|**C**ss|
+|**L**ikith|**V**izag|**H**tml|
+|**R**amesh|**N**ellore|**C**ss|
 
 ### U Can Use Any Type Of Data But "**R**ows" And "**Coloumns**" Are Mandatory
 

@@ -1,9 +1,12 @@
 ## **M**y-**B**io
 
-- **N**AME : **T**eja **N**ayak
-- **C**ITY : **G**untur
-- **D**ESIGNATION : **D**eveloper
-- **C**OURCE **L**EARN'T : **C**SS, **J**ava,**H**tml ;
+| Name | | City | |Cource |
+| -----| | -----| | ----- |
+| **T**eja | |**G**untur | |**J**ava|
+| **H**arish | |**O**ngole| |**C**ss|
+| **L**ikith | |**V**izag| |**H**tml|
+| **R**amesh | |**N**ellore| |**C**ss|
+
 
 ![This is image](https://avatars.githubusercontent.com/u/118418860?v=4)
 

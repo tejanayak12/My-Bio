@@ -27,8 +27,8 @@ INSERT INTO My-Bio.sql VALUES
 ```
 # AFTER USING MY SQL COMMAND ;
 ## RESULTS ARE :
-| Name | | City | |Cource |
-| -----| | -----| | ----- |
+  | Name | | City | |Cource |
+ | -----| | -----| | ----- |
 | **T**eja | |**G**untur | |**J**ava|
 | **H**arish | |**O**ngole| |**C**ss|
 | **L**ikith | |**V**izag| |**H**tml|

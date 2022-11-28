@@ -10,7 +10,7 @@
 
 # "My SQL PROJECT "
 ### CREATE A TABLE :
-``` 
+```sql
    CREATE TABLE My-Bio.sql (
     "NAME" VARCHAR (10),
     "CITY" VARCHAR (10),
@@ -18,7 +18,7 @@
 );
 ```
 ### INSERT DATA :
-```
+```sql
 INSERT INTO My-Bio.sql 
  VALUES 
     ("TEJA","GUNTUR","JAVA")
@@ -42,7 +42,7 @@ INSERT INTO My-Bio.sql
 #### Regards From
 
 ## Teja Nayak
-### My Web Link : (https://github.com/tejanayak12/My-Bio) 
+### My Web Link : https://github.com/tejanayak12/My-Bio 
 ### You Can Reach Me At : [GitHub](https://github.com/tejanayak12/My-Bio)
 
 ### Thanking You .

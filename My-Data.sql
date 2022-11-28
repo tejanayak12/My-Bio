@@ -5,8 +5,8 @@ CREATE TABLE My-Bio.sql (
 );
 
 INSERT INTO My-Bio.sql VALUES 
-    (TEJA,GUNTUR,JAVA)
-    (HARISH,ONGOLE,CSS)
-    (LIKITH,VIZAG,HTML)
-    (RAMESH,NELLORE,CSS);
+    ("TEJA","GUNTUR","JAVA")
+    ("HARISH","ONGOLE","CSS")
+    ("LIKITH","VIZAG","HTML")
+    ("RAMESH","NELLORE","CSS");
                                

@@ -1,11 +1,9 @@
 ## **M**y-**B**io
 
-| Name | | City | |Cource |
-| -----| | -----| | ----- |
-| **T**eja | |**G**untur | |**J**ava|
-| **H**arish | |**O**ngole| |**C**ss|
-| **L**ikith | |**V**izag| |**H**tml|
-| **R**amesh | |**N**ellore| |**C**ss|
+ - **N**AME : **T**eja **N**ayak
+- **C**ITY : **G**untur
+- **D**ESIGNATION : **D**eveloper
+- **C**OURCE **L**EARN'T : **C**SS, **J**ava,**H**tml ;
 
 
 ![This is image](https://avatars.githubusercontent.com/u/118418860?v=4)
@@ -29,14 +27,14 @@ INSERT INTO My-Bio.sql VALUES
 ```
 # AFTER USING MY SQL COMMAND ;
 ## RESULTS ARE :
-
+```
 | Name | | City | |Cource |
 | -----| | -----| | ----- |
 | **T**eja | |**G**untur | |**J**ava|
 | **H**arish | |**O**ngole| |**C**ss|
 | **L**ikith | |**V**izag| |**H**tml|
 | **R**amesh | |**N**ellore| |**C**ss|
-
+```
 ### U Can Use Any Type Of Data But "**R**ows" And "**Coloumns**" Are Mandatory
 
 ### Thanks For Watching My Profile 

@@ -48,3 +48,13 @@ INSERT INTO My-Bio.sql
 ### Thanking You .
 
 #### Have a Nice Day ;
+
+## My JSON Profile:
+```json
+{
+    "NAME" : "Teja Nayak",
+    "CITY" : "Guntur",
+    "DESIGNATION" : "Developer"
+    "COURCE LEARNT" : "CSS","JAVA","HTML"
+}
+```
